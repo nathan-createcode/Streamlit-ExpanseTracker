@@ -1,1 +1,0 @@
-This is a simple expense tracker application built using Streamlit, designed to help users track and visualize their expenses in an easy and interactive way. The app allows users to input daily expenses, categorize them, and view summarized reports through both tables and visual charts.
